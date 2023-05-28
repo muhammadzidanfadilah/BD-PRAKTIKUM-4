@@ -8,19 +8,19 @@ PRAKTIKUM 4
 
 - Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 
--Tampilkan pegawai yang tunjangannya NULL!
+- Tampilkan pegawai yang tunjangannya NULL!
 
-Tampilkan pegawai yang tunjangannya tidak NULL!
+- Tampilkan pegawai yang tunjangannya tidak NULL!
 
--Tampilkan/hitung jumlah baris/record tabel pegawai!
+- Tampilkan/hitung jumlah baris/record tabel pegawai!
 
--Tampilkan/hitung jumlah total gaji di tabel pegawai!
+- Tampilkan/hitung jumlah total gaji di tabel pegawai!
 
--Tampilkan/hitung rata-rata gaji pegawai!
+- Tampilkan/hitung rata-rata gaji pegawai!
 
--Tampilkan gaji terkecil!
+- Tampilkan gaji terkecil!
 
--Tampilkan gaji terbesar!
+- Tampilkan gaji terbesar!
 
 # Tabel yang di minta 
 
